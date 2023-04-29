@@ -1,0 +1,724 @@
+{
+  "movies": [
+    {
+      "genre": "Action",
+      "id": 640146,
+      "overview": "La pareja de superhéroes Scott Lang y Hope van Dyne regresa para continuar sus aventuras como Ant-Man y la Avispa. Los dos, junto a los padres de Hope, Hank Pym y Janet van Dyne y la hija de Scott, Cassie Lang, se dedican a explorar el Mundo Cuántico, interactuando con nuevas y extrañas criaturas y embarcándose en una aventura que les llevará más allá de los límites de lo que creían posible.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/jTNYlTEijZ6c8Mn4gvINOeB2HWM.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/jTNYlTEijZ6c8Mn4gvINOeB2HWM.jpg"
+      },
+      "release_date": "2023-02-15",
+      "title": "Ant-Man y la Avispa: Quantumanía",
+      "run-time": 125
+    },
+    {
+      "genre": "Animation",
+      "id": 502356,
+      "overview": "Mientras trabajan en una avería subterránea, los fontaneros de Brooklyn, Mario y su hermano Luigi, viajan por una misteriosa tubería hasta un nuevo mundo mágico. Pero, cuando los hermanos se separan, Mario deberá emprender una épica misión para encontrar a Luigi.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/zNKs1T0VZuJiVuhuL5GSCNkGdxf.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/zNKs1T0VZuJiVuhuL5GSCNkGdxf.jpg"
+      },
+      "release_date": "2023-04-05",
+      "title": "Súper Mario Bros. La película",
+      "run-time": 92
+    },
+    {
+      "genre": "Action",
+      "id": 594767,
+      "overview": "Billy Batson y sus hermanos adoptivos, que se transforman en superhéroes al decir \"¡Shazam!\", se ven obligados a volver a la acción y luchar contra las Hijas de Atlas, a quienes deben evitar que use un arma que podría destruir el mundo.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/igFLHxab9zG0M89OmEpnOM6TPXn.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/igFLHxab9zG0M89OmEpnOM6TPXn.jpg"
+      },
+      "release_date": "2023-03-15",
+      "title": "¡Shazam! La furia de los dioses",
+      "run-time": 130
+    },
+    {
+      "genre": "Science Fiction",
+      "id": 76600,
+      "overview": "Ambientada más de una década después de los acontecimientos de la primera película, 'Avatar: The Way of Water' empieza contando la historia de la familia Sully (Jake, Neytiri y sus hijos), los problemas que los persiguen, lo que tienen que hacer para mantenerse a salvo, las batallas que libran para seguir con vida y las tragedias que sufren.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/bqOqQ2Tawum3eHKNrc94P4EeaZB.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/bqOqQ2Tawum3eHKNrc94P4EeaZB.jpg"
+      },
+      "release_date": "2022-12-14",
+      "title": "Avatar: El sentido del agua",
+      "run-time": 192
+    },
+    {
+      "genre": "Action",
+      "id": 948713,
+      "overview": "Tras la muerte del rey Eduardo, Uhtred de Bebbanburg y sus camaradas se aventuran a través de un reino fracturado con la esperanza de unir por fin a Inglaterra.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/55PJNDJbD4Q9jFO4vaCnNl9dYEv.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/55PJNDJbD4Q9jFO4vaCnNl9dYEv.jpg"
+      },
+      "release_date": "2023-04-14",
+      "title": "Siete reyes deben morir",
+      "run-time": 111
+    },
+    {
+      "genre": "Drama",
+      "id": 677179,
+      "overview": "Después de dominar el mundo del boxeo, Adonis Creed ha prosperado tanto en su carrera como en su vida familiar. Cuando un amigo de la infancia y ex prodigio de boxeo, Damien Anderson, resurge después de cumplir una larga sentencia en prisión, está ansioso por demostrar que merece su disparo en el ring. El enfrentamiento entre los antiguos amigos es más que una pelea. Para resolver el puntaje, Adonis debe poner su futuro en la línea para luchar contra Damien, un luchador que no tiene nada que perder.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/fcFMd3HdyX7r5gtFwVnn2qr5Yhq.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/fcFMd3HdyX7r5gtFwVnn2qr5Yhq.jpg"
+      },
+      "release_date": "2023-03-01",
+      "title": "Creed III",
+      "run-time": 116
+    },
+    {
+      "genre": "Comedy",
+      "id": 638974,
+      "overview": "Nick y Audrey Spitz, ahora detectives a tiempo completo que tratan de hacer despegar su agencia de detectives privados, se ven inmersos en un conflicto internacional cuando su amigo, el maharajá, es secuestrado en mitad de su fastuosa boda.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/3jce1QvM2sma0TKYckNmIKzjhHC.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/3jce1QvM2sma0TKYckNmIKzjhHC.jpg"
+      },
+      "release_date": "2023-03-28",
+      "title": "Criminales a la vista",
+      "run-time": 91
+    },
+    {
+      "genre": "Horror",
+      "id": 713704,
+      "overview": "Historia de dos hermanas separadas cuyo reencuentro se ve interrumpido por el surgimiento de demonios poseedores de carne, empujándolos a una batalla por la supervivencia mientras se enfrentan a la versión de familia más aterradora que se pueda imaginar. Secuela de la trilgía original de 'Evil Dead'.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/ioMtng0qHbwNjR1fuxYZsRf1kjm.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/ioMtng0qHbwNjR1fuxYZsRf1kjm.jpg"
+      },
+      "release_date": "2023-04-12",
+      "title": "Posesión infernal: El despertar",
+      "run-time": 96
+    },
+    {
+      "genre": "Action",
+      "id": 1048300,
+      "overview": "Una agente del FBI de vacaciones en Europa del Este con su familia ve cómo su vida da un vuelco cuando asesinan a su marido y secuestran a su hija. Desesperada, tendrá que formar equipo con un criminal al que ha detenido para salvar a su hija antes de que sea demasiado tarde.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/qVzRt8c2v4gGBYsnaflXVVeQ9Lh.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/qVzRt8c2v4gGBYsnaflXVVeQ9Lh.jpg"
+      },
+      "release_date": "2022-12-15",
+      "title": "Adrenalina",
+      "run-time": 138
+    },
+    {
+      "genre": "Animation",
+      "id": 315162,
+      "overview": "El Gato con Botas se embarca en un viaje épico para encontrar al mítico Último Deseo y recuperar sus nueve vidas.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/lyP4WNmUiiOgl4g2z7ywE0z6SGF.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/lyP4WNmUiiOgl4g2z7ywE0z6SGF.jpg"
+      },
+      "release_date": "2022-12-07",
+      "title": "El Gato con Botas: El último deseo",
+      "run-time": 103
+    },
+    {
+      "genre": "Action",
+      "id": 603692,
+      "overview": "John Wick descubre un camino para derrotar a la Alta Mesa. Pero para poder ganar su libertad, Wick deberá enfrentarse a un nuevo rival con poderosas alianzas en todo el mundo, capaz de convertir a viejos amigos en enemigos.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/gh2bmprLtUQ8oXCSluzfqaicyrm.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/gh2bmprLtUQ8oXCSluzfqaicyrm.jpg"
+      },
+      "release_date": "2023-03-22",
+      "title": "John Wick 4",
+      "run-time": 170
+    },
+    {
+      "genre": "Romance",
+      "id": 868759,
+      "overview": "Cole, un tipo campechano, se enamora perdidamente de la enigmática Sadie, quien, para su enorme sorpresa, resulta ser una agente secreta. Antes de que pueda surgir una segunda cita, los dos deben embarcarse en una aventura internacional para salvar el mundo.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/zSw2JeQ03GivcS4VKJmWK5sYi1F.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/zSw2JeQ03GivcS4VKJmWK5sYi1F.jpg"
+      },
+      "release_date": "2023-04-21",
+      "title": "Ghosting",
+      "run-time": 120
+    },
+    {
+      "genre": "Horror",
+      "id": 934433,
+      "overview": "Tras los últimos asesinatos de Ghostface, los cuatro supervivientes abandonan Woodsboro para dar comienzo a un nuevo capítulo.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/dvvfHkEinSUWUPtJeWvxOx5hozm.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/dvvfHkEinSUWUPtJeWvxOx5hozm.jpg"
+      },
+      "release_date": "2023-03-08",
+      "title": "Scream VI",
+      "run-time": 123
+    },
+    {
+      "genre": "Thriller",
+      "id": 804150,
+      "overview": "Inspirado en hechos reales ocurridos en Kentucky en 1985, durante los cuales un oso negro de 175 libras ingirió 88 libras de cocaína pura.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/xNaMZMtGUPPmjYU5h5iqVxvcSe.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/xNaMZMtGUPPmjYU5h5iqVxvcSe.jpg"
+      },
+      "release_date": "2023-02-22",
+      "title": "Oso vicioso",
+      "run-time": 96
+    },
+    {
+      "genre": "Family",
+      "id": 946310,
+      "overview": "Los Piratas se sienten como en casa en Sandborough, pero el ambiente se enfría cuando los Ninjas vienen a vivir a la calle. ¡Después de todo, los piratas y los ninjas son enemigos jurados! Mientras el capitán pirata Hector Blunderbuss lucha por deshacerse de sus nuevos vecinos, su hijo Billy y su hija ninja Yuka se hacen amigos. Los Piratas desafían a los Ninjas a la batalla final en el hexatlón anual del pueblo. ¿Quién ganará el partido? Los ninjas son más rápidos y ágiles, por supuesto, pero los piratas son los mejores tramposos de los siete mares...",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/7AELgsqhyytLJnrYkl4nYkkJIwG.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/7AELgsqhyytLJnrYkl4nYkkJIwG.jpg"
+      },
+      "release_date": "2022-04-20",
+      "title": "De Piraten van Hiernaast II: De Ninja's van de Overkant",
+      "run-time": 89
+    },
+    {
+      "genre": "Horror",
+      "id": 1008005,
+      "overview": "Finales de los 80, en un pueblo no determinado. Sara (Carla Campra) acaba de llegar al pueblo y no encuentra su lugar en ese espacio cerrado. Su mejor amiga es Rebe (Aina Quiñones), mucho más extrovertida. Una noche van a una discoteca, toman drogas y durante el trayecto a casa encontrarán una muñeca vestida de comunión. A partir de ese momento, comenzará la pesadilla.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/sGSzha9K65abyvzBwXXnSV2sHWV.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/sGSzha9K65abyvzBwXXnSV2sHWV.jpg"
+      },
+      "release_date": "2023-02-10",
+      "title": "La niña de la comunión",
+      "run-time": 103
+    },
+    {
+      "genre": "Horror",
+      "id": 1104040,
+      "overview": "Un grupo de amigos tienen que navegar hacia su propio destino, creciendo en las bulliciosas calles y el vecindario de Isale Eko, Lagos.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/nGwFsB6EXUCr21wzPgtP5juZPSv.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/nGwFsB6EXUCr21wzPgtP5juZPSv.jpg"
+      },
+      "release_date": "2023-04-07",
+      "title": "Gangs of Lagos",
+      "run-time": 103
+    },
+    {
+      "genre": "Science Fiction",
+      "id": 700391,
+      "overview": "Después de un catastrófico accidente en un planeta desconocido, el piloto Mills descubre rápidamente que realmente está varado en la Tierra… hace 65 millones de años. Ahora, con solo una oportunidad de rescate, Mills y la otra única superviviente, Koa, deberán abrirse camino a través del desconocido territorio plagado con peligrosas criaturas prehistóricas en una épica lucha por sobrevivir.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/dhqu9rInT9IOa2w0TU22YMEgGus.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/dhqu9rInT9IOa2w0TU22YMEgGus.jpg"
+      },
+      "release_date": "2023-03-02",
+      "title": "65",
+      "run-time": 93
+    },
+    {
+      "genre": "Horror",
+      "id": 758323,
+      "overview": "Película sobre Gabriele Amorth, un sacerdote que ejerció como exorcista principal del Vaticano, realizando más de cien mil exorcismos a lo largo de su vida. Amorth escribió dos libros de memorias donde detalló sus experiencias luchando contra Satanás.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/qcknZEeD71byJ3XSalDDZ5iHpNr.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/qcknZEeD71byJ3XSalDDZ5iHpNr.jpg"
+      },
+      "release_date": "2023-04-05",
+      "title": "El exorcista del papa",
+      "run-time": 103
+    },
+    {
+      "genre": "Action",
+      "id": 849869,
+      "overview": "En el trabajo es una famosa asesina. En casa es una madre soltera. Para ella, matar está chupado... pero criar a su hija adolescente no tanto.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/3mNP3fpjHtoCZ2GaxPnA4elj0rv.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/3mNP3fpjHtoCZ2GaxPnA4elj0rv.jpg"
+      },
+      "release_date": "2023-02-17",
+      "title": "Boksoon debe morir",
+      "run-time": 137
+    },
+    {
+      "genre": "Action",
+      "id": 842945,
+      "overview": "Un adolescente huye para seguir los pasos de su padre, el legendario cazador de tormentas Bill Brody.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/6uaKRc0Di2pfhRLFQaH5BntSJOH.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/6uaKRc0Di2pfhRLFQaH5BntSJOH.jpg"
+      },
+      "release_date": "2023-03-17",
+      "title": "Supercell",
+      "run-time": 103
+    },
+    {
+      "genre": "Action",
+      "id": 1033219,
+      "overview": "A medida que se agota el agua viable en la Tierra, se envía una misión a la luna Titán de Saturno para recuperar reservas sostenibles de H2O de sus habitantes alienígenas. Pero justo cuando los humanos adquieren el preciado recurso, son atacados por los titanes rebeldes, quienes no confían en que los terrícolas se vayan en paz.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/qNz4l8UgTkD8rlqiKZ556pCJ9iO.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/qNz4l8UgTkD8rlqiKZ556pCJ9iO.jpg"
+      },
+      "release_date": "2022-09-30",
+      "title": "Attack on Titan",
+      "run-time": 93
+    },
+    {
+      "genre": "Adventure",
+      "id": 736790,
+      "overview": "Álex es un adolescente que ha ido a ver a su familia a México. En el cobertizo de su abuelo, se encuentra a un cachorro de chupacabras y se hacen amigos. Para salvar a esta criatura mítica, Álex y sus primos emprenden la aventura de su vida.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/dAwvE6Vd4mhlx2xJU6PqjBAM2y5.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/dAwvE6Vd4mhlx2xJU6PqjBAM2y5.jpg"
+      },
+      "release_date": "2023-04-07",
+      "title": "Chupa",
+      "run-time": 98
+    },
+    {
+      "genre": "Action",
+      "id": 1084225,
+      "overview": "",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/hR1jdCw0A9czgsbp45TASkjjBhA.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/hR1jdCw0A9czgsbp45TASkjjBhA.jpg"
+      },
+      "release_date": "2023-03-02",
+      "title": "The Park",
+      "run-time": 80
+    },
+    {
+      "genre": "Action",
+      "id": 505642,
+      "overview": "La reina Ramonda, Shuri, M’Baku, Okoye y las Dora Milaje, luchan para proteger su nación de la injerencia de potencias mundiales a raíz de la muerte del rey T’Challa. Mientras los wakandianos se esfuerzan por adaptarse a su nueva etapa, los héroes deben actuar unidos, con la ayuda del Perro de la Guerra Nakia y Everett Ross, y forzar un nuevo destino para el reino de Wakanda.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/mYpT2R7639KvKZ668uoQGS2QNFp.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/mYpT2R7639KvKZ668uoQGS2QNFp.jpg"
+      },
+      "release_date": "2022-11-09",
+      "title": "Black Panther: Wakanda Forever",
+      "run-time": 162
+    },
+    {
+      "genre": "Animation",
+      "id": 816904,
+      "overview": "En las entrañas de la tierra, ¡existe una ciudad de momias! Por mandato imperial, la Princesa Nefer debe casarse con Thut, un ex auriga de carros. Ninguno desea el matrimonio; Nefer porque ansía la libertad, y Thut porque es alérgico al matrimonio. Pero los designios de los dioses son irrevocables: Thut deberá desposar a Nefer y custodiar el anillo real que el Faraón le ha otorgado; si algo le ocurriera a este, Thut perdería los ojos y la lengua. Mientras tanto, en nuestro mundo, Lord Carnaby lleva a cabo una excavación arqueológica y encuentra algo único: ¡un anillo de boda real egipcia! Thut debe ir al mundo de los humanos para recuperarlo. Le acompaña Sekhem, su hermano de 12 años, con su mascota cocodrilo, y Nefer. Juntos vivirán una gran aventura en la moderna Londres y descubrirán algo que no entraba en sus planes: enamorarse.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/g5vkJAPj4XFlaOXZMYE97LZ7lns.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/g5vkJAPj4XFlaOXZMYE97LZ7lns.jpg"
+      },
+      "release_date": "2023-01-05",
+      "title": "Momias",
+      "run-time": 88
+    },
+    {
+      "genre": "Science Fiction",
+      "id": 536554,
+      "overview": "Un ingeniero en robótica de una empresa de juguetes construye una muñeca realista que comienza a cobrar vida propia.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/tv3Yjn78U8hFGFrkSypiIhHNUh3.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/tv3Yjn78U8hFGFrkSypiIhHNUh3.jpg"
+      },
+      "release_date": "2022-12-28",
+      "title": "M3GAN",
+      "run-time": 102
+    },
+    {
+      "genre": "Action",
+      "id": 436270,
+      "overview": "Casi 5.000 años después de haber sido dotado de los poderes omnipotentes de los antiguos dioses y encarcelado con la misma rapidez, Black Adam es liberado de su tumba terrenal, listo para desatar su forma única de justicia en el mundo moderno.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/87cr9s6zftMp8MLXCMHeGfKuPVL.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/87cr9s6zftMp8MLXCMHeGfKuPVL.jpg"
+      },
+      "release_date": "2022-10-19",
+      "title": "Black Adam",
+      "run-time": 125
+    },
+    {
+      "genre": "Horror",
+      "id": 980078,
+      "overview": "Christopher Robin se dirige a la universidad y ha abandonado a sus viejos amigos, Pooh y Piglet, lo que lleva al dúo a aceptar sus monstruos internos.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/ZmbSkGEpXFufbDhgfTnSrFAguo.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/ZmbSkGEpXFufbDhgfTnSrFAguo.jpg"
+      },
+      "release_date": "2023-01-27",
+      "title": "Winnie the Pooh: Blood and Honey",
+      "run-time": 84
+    },
+    {
+      "genre": "Animation",
+      "id": 869626,
+      "overview": "Marcel es un adorable caparazón de una pulgada de alto que se gana la vida con su abuela Connie y su mascota, Alan. Una vez que formaron parte de una comunidad en expansión de caparazones, ahora viven solos como los únicos sobrevivientes de una misteriosa tragedia. Pero cuando un realizador de documentales los descubre entre el desorden de su Airbnb, el cortometraje que publica en línea trae a Marcel millones de fanáticos apasionados, así como peligros sin precedentes y una nueva esperanza de encontrar a su familia perdida hace mucho tiempo.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/v74drP806W96VdGGtckBuShoeQj.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/v74drP806W96VdGGtckBuShoeQj.jpg"
+      },
+      "release_date": "2022-06-24",
+      "title": "Marcel, la concha con zapatos",
+      "run-time": 90
+    },
+    {
+      "genre": "Drama",
+      "id": 943822,
+      "overview": "A principios del siglo XIX, cuando el boxeo era el deporte de los reyes, Jem Belcher (Matt Hookings), un joven y talentoso boxeador, siguiendo los pasos de su abuelo Jack (Russell Crowe), luchó hasta convertirse en el campeón más joven de la historia de Inglaterra. Esta es la historia real, jamás contada hasta ahora, del nacimiento del boxeo.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/yjFCfffM2TTwWpxQYFZuqlnueeu.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/yjFCfffM2TTwWpxQYFZuqlnueeu.jpg.jpg"
+      },
+      "release_date": "2022-06-30",
+      "title": "La forja de un campeón",
+      "run-time": 107
+    },
+    {
+      "genre": "Horror",
+      "id": 296271,
+      "overview": "La compañía de biotecnología más popular del mundo ha descubierto que puede clonar a las personas más influyentes de la historia de entre los muertos. Ahora, están subastando clones de Miguel Ángel, Galileo, Vivaldi y otros por decenas de millones de dólares a los ultraricos del mundo. Pero cuando roban la Sábana Santa de Turín y clonan el ADN de Jesucristo, se desata el infierno.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/BUQB3FuLrMyPD6khjawrHePyLo.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/BUQB3FuLrMyPD6khjawrHePyLo.jpg"
+      },
+      "release_date": "2023-01-13",
+      "title": "The Devil Conspiracy",
+      "run-time": 111
+    },
+    {
+      "genre": "Action",
+      "id": 646389,
+      "overview": "En la noche de fin de año, el piloto experto Brodie Torrance (Gerard Butler) realiza un arriesgado aterrizaje cuando su avión, repleto de pasajeros, es alcanzado por un rayo. Perdidos en medio de una isla devastada por la guerra, Torrance se dará cuenta que sobrevivir al vuelo sólo ha sido el principio de una trepidante aventura llena de peligros. El piloto deberá usar todo su ingenio para llevar a los pasajeros a sus destinos sanos y salvos.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/juoinefK6tMbjwJhRpRvbAAmrTB.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/juoinefK6tMbjwJhRpRvbAAmrTB.jpg"
+      },
+      "release_date": "2023-01-12",
+      "title": "El piloto",
+      "run-time": 107
+    },
+    {
+      "genre": "Animation",
+      "id": 876792,
+      "overview": "En un país llamado Raja, al oeste de Tempest, llegan Rimuru y sus compañeros, donde se ven envueltos en una conspiración que gira alrededor de una mujer y un misterioso poder. Secuela de la serie \"That Time I Got Reincarnated as a Slime\".",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/eJeoHyNGJQK9yTEppuHBFEh99eL.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/eJeoHyNGJQK9yTEppuHBFEh99eL.jpg"
+      },
+      "release_date": "2022-11-25",
+      "title": "That Time I Got Reincarnated as a Slime The Movie: Scarlet Bond",
+      "run-time": 108
+    },
+    {
+      "genre": "Horror",
+      "id": 1023313,
+      "overview": "Ofelia, una joven monja recién llegada al pueblo de San Ramón, donde se ve obligada a realizar un exorcismo a una mujer embarazada. Cuando la posesión parece haber finalizado, ella descubre que la presencia maligna está tratando de regresar al cuerpo de la víctima. Para evitar esto, tendrá que arriesgarlo todo e incluso exponer sus debilidades a las fuerzas del mal.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/d07xtqwq1uriQ1hda6qeu8Skt5m.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/d07xtqwq1uriQ1hda6qeu8Skt5m.jpg"
+      },
+      "release_date": "2022-11-02",
+      "title": "La Exorcista",
+      "run-time": 108
+    },
+    {
+      "genre": "Horror",
+      "id": 631842,
+      "overview": "Durante unas vacaciones en una cabaña en un bosque alejada de todo, una niña y sus padres se convierten en rehenes de cuatro desconocidos armados que obligan a la familia a tomar una decisión imposible para evitar el apocalipsis. Con acceso limitado al mundo exterior, la familia deberá decidir qué creer antes de que todo esté perdido.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/4Zna9CvyzaAgejsErmyXmHC64Dd.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/4Zna9CvyzaAgejsErmyXmHC64Dd.jpg"
+      },
+      "release_date": "2023-02-01",
+      "title": "Llaman a la puerta",
+      "run-time": 100
+    },
+    {
+      "genre": "Thriller",
+      "id": 1076605,
+      "overview": "En un futuro distópico, una madre y su hijo adolescente salen de caza a las montañas y se encuentran con un extraño que amenaza con poner patas arriba su relación.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/8QxCd3pSSrj6QqaG4fkNkaJmUa.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/8QxCd3pSSrj6QqaG4fkNkaJmUa.jpg"
+      },
+      "release_date": "2023-01-19",
+      "title": "Cazadora",
+      "run-time": 72
+    },
+    {
+      "genre": "Animation",
+      "id": 676710,
+      "overview": "Maurice, un gato callejero, tiene el timo perfecto para ganar dinero. Encuentra a un niño que toca la flauta y se hace amigo de su horda de ratas que hablan, así no las ve como si fueran comida. Cuando Maurice y los roedores llegan al pueblo de Bad Blintz, encuentran a Malicia. Su timo no llega a buen puerto por culpa de lo que les espera en el sótano.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/nOc3KwOtTtgXraeBddn3gLpCuaA.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/nOc3KwOtTtgXraeBddn3gLpCuaA.jpg"
+      },
+      "release_date": "2022-12-16",
+      "title": "Las aventuras de Maurice",
+      "run-time": 93
+    },
+    {
+      "genre": "War",
+      "id": 840326,
+      "overview": "Aatami Korpi busca oro en las profundidades de Laponia, pero cuando se topa con una patrulla nazi, comienza una persecución impresionante y sedienta de oro a través de las tierras salvajes de Laponia, destruidas y minadas.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/t9VXZkgcxpIwfPUKAWOOONs0vHv.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/t9VXZkgcxpIwfPUKAWOOONs0vHv.jpg"
+      },
+      "release_date": "2023-01-27",
+      "title": "Sisu",
+      "run-time": 91
+    },
+    {
+      "genre": "Action",
+      "id": 385687,
+      "overview": "Durante numerosas misiones más que imposibles, Dom Toretto y su familia han sido capaces de ser más listos, de tener más valor y de ir más rápido que cualquier enemigo que se cruzara con ellos. Pero ahora tendrán que enfrentarse al oponente más letal que jamás hayan conocido: un terrible peligro que resurge del pasado, que se mueve por una sangrienta sed de venganza y que está dispuesto a destrozar a la familia y destruir para siempre todo lo que a Dom le importa.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/hc2ymDMfOCZ0JqrsMUBgL1GZXnz.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/hc2ymDMfOCZ0JqrsMUBgL1GZXnz.jpg"
+      },
+      "release_date": "2023-05-17",
+      "title": "Fast & Furious X",
+      "run-time": 141
+    },
+    {
+      "genre": "Action",
+      "id": 842945,
+      "overview": "Un adolescente huye para seguir los pasos de su padre, el legendario cazador de tormentas Bill Brody.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/6uaKRc0Di2pfhRLFQaH5BntSJOH.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/6uaKRc0Di2pfhRLFQaH5BntSJOH.jpg"
+      },
+      "release_date": "2023-03-17",
+      "title": "Supercell",
+      "run-time": 100
+    },
+    {
+      "genre": "Science Fiction",
+      "id": 1033219,
+      "overview": "A medida que se agota el agua viable en la Tierra, se envía una misión a la luna Titán de Saturno para recuperar reservas sostenibles de H2O de sus habitantes alienígenas. Pero justo cuando los humanos adquieren el preciado recurso, son atacados por los titanes rebeldes, quienes no confían en que los terrícolas se vayan en paz.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/qNz4l8UgTkD8rlqiKZ556pCJ9iO.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300//qNz4l8UgTkD8rlqiKZ556pCJ9iO.jpg"
+      },
+      "release_date": "2022-09-30",
+      "title": "Attack on Titan",
+      "run-time": 93
+    },
+    {
+      "genre": "Adventure",
+      "id": 736790,
+      "overview": "Álex es un adolescente que ha ido a ver a su familia a México. En el cobertizo de su abuelo, se encuentra a un cachorro de chupacabras y se hacen amigos. Para salvar a esta criatura mítica, Álex y sus primos emprenden la aventura de su vida.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/dAwvE6Vd4mhlx2xJU6PqjBAM2y5.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/dAwvE6Vd4mhlx2xJU6PqjBAM2y5.jpg"
+      },
+      "release_date": "2023-04-07",
+      "title": "Chupa",
+      "run-time": 98
+    },
+    {
+      "genre": "Action",
+      "id": 1084225,
+      "overview": "",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/hR1jdCw0A9czgsbp45TASkjjBhA.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/hR1jdCw0A9czgsbp45TASkjjBhA.jpg"
+      },
+      "release_date": "2023-03-02",
+      "original_title": "The Park",
+      "run-time": 80
+    },
+    {
+      "genre": "Adventure",
+      "id": 505642,
+      "overview": "La reina Ramonda, Shuri, M’Baku, Okoye y las Dora Milaje, luchan para proteger su nación de la injerencia de potencias mundiales a raíz de la muerte del rey T’Challa. Mientras los wakandianos se esfuerzan por adaptarse a su nueva etapa, los héroes deben actuar unidos, con la ayuda del Perro de la Guerra Nakia y Everett Ross, y forzar un nuevo destino para el reino de Wakanda.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/mYpT2R7639KvKZ668uoQGS2QNFp.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/mYpT2R7639KvKZ668uoQGS2QNFp.jpg"
+      },
+      "release_date": "2022-11-09",
+      "original_title": "Black Panther: Wakanda Forever",
+      "run-time": 162
+    },
+    {
+      "genre": "Animation",
+      "id": 816904,
+      "overview": "En las entrañas de la tierra, ¡existe una ciudad de momias! Por mandato imperial, la Princesa Nefer debe casarse con Thut, un ex auriga de carros. Ninguno desea el matrimonio; Nefer porque ansía la libertad, y Thut porque es alérgico al matrimonio. Pero los designios de los dioses son irrevocables: Thut deberá desposar a Nefer y custodiar el anillo real que el Faraón le ha otorgado; si algo le ocurriera a este, Thut perdería los ojos y la lengua. Mientras tanto, en nuestro mundo, Lord Carnaby lleva a cabo una excavación arqueológica y encuentra algo único: ¡un anillo de boda real egipcia! Thut debe ir al mundo de los humanos para recuperarlo. Le acompaña Sekhem, su hermano de 12 años, con su mascota cocodrilo, y Nefer. Juntos vivirán una gran aventura en la moderna Londres y descubrirán algo que no entraba en sus planes: enamorarse.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/g5vkJAPj4XFlaOXZMYE97LZ7lns.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/g5vkJAPj4XFlaOXZMYE97LZ7lns.jpg"
+      },
+      "release_date": "2023-01-05",
+      "title": "Momias",
+      "run-time": 88
+    },
+    {
+      "genre": "Science Fiction",
+      "id": 536554,
+      "overview": "Un ingeniero en robótica de una empresa de juguetes construye una muñeca realista que comienza a cobrar vida propia.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/tv3Yjn78U8hFGFrkSypiIhHNUh3.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/tv3Yjn78U8hFGFrkSypiIhHNUh3.jpg"
+      },
+      "release_date": "2022-12-28",
+      "title": "M3GAN",
+      "run-time": 102
+    },
+    {
+      "genre": "Action",
+      "id": 436270,
+      "overview": "Casi 5.000 años después de haber sido dotado de los poderes omnipotentes de los antiguos dioses y encarcelado con la misma rapidez, Black Adam es liberado de su tumba terrenal, listo para desatar su forma única de justicia en el mundo moderno.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/87cr9s6zftMp8MLXCMHeGfKuPVL.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/87cr9s6zftMp8MLXCMHeGfKuPVL.jpg"
+      },
+      "release_date": "2022-10-19",
+      "title": "Black Adam",
+      "run-time": 125
+    },
+    {
+      "genre": "Horror",
+      "id": 980078,
+      "overview": "Christopher Robin se dirige a la universidad y ha abandonado a sus viejos amigos, Pooh y Piglet, lo que lleva al dúo a aceptar sus monstruos internos.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/ZmbSkGEpXFufbDhgfTnSrFAguo.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/ZmbSkGEpXFufbDhgfTnSrFAguo.jpg"
+      },
+      "release_date": "2023-01-27",
+      "title": "Winnie the Pooh: Blood and Honey",
+      "run-time": 84
+    },
+    {
+      "genre": "Animation",
+      "id": 869626,
+      "overview": "Marcel es un adorable caparazón de una pulgada de alto que se gana la vida con su abuela Connie y su mascota, Alan. Una vez que formaron parte de una comunidad en expansión de caparazones, ahora viven solos como los únicos sobrevivientes de una misteriosa tragedia. Pero cuando un realizador de documentales los descubre entre el desorden de su Airbnb, el cortometraje que publica en línea trae a Marcel millones de fanáticos apasionados, así como peligros sin precedentes y una nueva esperanza de encontrar a su familia perdida hace mucho tiempo.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/v74drP806W96VdGGtckBuShoeQj.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/v74drP806W96VdGGtckBuShoeQj.jpg"
+      },
+      "release_date": "2022-06-24",
+      "title": "Marcel, la concha con zapatos",
+      "run-time": 90
+    },
+    {
+      "genre": "Drama",
+      "id": 943822,
+      "overview": "A principios del siglo XIX, cuando el boxeo era el deporte de los reyes, Jem Belcher (Matt Hookings), un joven y talentoso boxeador, siguiendo los pasos de su abuelo Jack (Russell Crowe), luchó hasta convertirse en el campeón más joven de la historia de Inglaterra. Esta es la historia real, jamás contada hasta ahora, del nacimiento del boxeo.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/yjFCfffM2TTwWpxQYFZuqlnueeu.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/yjFCfffM2TTwWpxQYFZuqlnueeu.jpg"
+      },
+      "release_date": "2022-06-30",
+      "title": "La forja de un campeón",
+      "run-time": 107
+    },
+    {
+      "genre": "Thriller",
+      "id": 296271,
+      "overview": "La compañía de biotecnología más popular del mundo ha descubierto que puede clonar a las personas más influyentes de la historia de entre los muertos. Ahora, están subastando clones de Miguel Ángel, Galileo, Vivaldi y otros por decenas de millones de dólares a los ultraricos del mundo. Pero cuando roban la Sábana Santa de Turín y clonan el ADN de Jesucristo, se desata el infierno.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/BUQB3FuLrMyPD6khjawrHePyLo.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/BUQB3FuLrMyPD6khjawrHePyLo.jpg"
+      },
+      "release_date": "2023-01-13",
+      "title": "The Devil Conspiracy",
+      "run-time": 111
+    },
+    {
+      "genre": "Action",
+      "id": 646389,
+      "overview": "En la noche de fin de año, el piloto experto Brodie Torrance (Gerard Butler) realiza un arriesgado aterrizaje cuando su avión, repleto de pasajeros, es alcanzado por un rayo. Perdidos en medio de una isla devastada por la guerra, Torrance se dará cuenta que sobrevivir al vuelo sólo ha sido el principio de una trepidante aventura llena de peligros. El piloto deberá usar todo su ingenio para llevar a los pasajeros a sus destinos sanos y salvos.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/juoinefK6tMbjwJhRpRvbAAmrTB.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/juoinefK6tMbjwJhRpRvbAAmrTB.jpg"
+      },
+      "release_date": "2023-01-12",
+      "title": "El piloto",
+      "run-time": 107
+    },
+    {
+      "genre": "Animation",
+      "id": 876792,
+      "overview": "En un país llamado Raja, al oeste de Tempest, llegan Rimuru y sus compañeros, donde se ven envueltos en una conspiración que gira alrededor de una mujer y un misterioso poder. Secuela de la serie \"That Time I Got Reincarnated as a Slime\".",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/eJeoHyNGJQK9yTEppuHBFEh99eL.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/eJeoHyNGJQK9yTEppuHBFEh99eL.jpg"
+      },
+      "release_date": "2022-11-25",
+      "title": "That Time I Got Reincarnated as a Slime The Movie: Scarlet Bond",
+      "run-time": 108
+    },
+    {
+      "genre": "Horror",
+      "id": 1023313,
+      "overview": "Ofelia, una joven monja recién llegada al pueblo de San Ramón, donde se ve obligada a realizar un exorcismo a una mujer embarazada. Cuando la posesión parece haber finalizado, ella descubre que la presencia maligna está tratando de regresar al cuerpo de la víctima. Para evitar esto, tendrá que arriesgarlo todo e incluso exponer sus debilidades a las fuerzas del mal.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/d07xtqwq1uriQ1hda6qeu8Skt5m.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/d07xtqwq1uriQ1hda6qeu8Skt5m.jpg"
+      },
+      "release_date": "2022-11-02",
+      "title": "La Exorcista",
+      "run-time": 101
+    },
+    {
+      "genre": "Mystery",
+      "id": 631842,
+      "overview": "Durante unas vacaciones en una cabaña en un bosque alejada de todo, una niña y sus padres se convierten en rehenes de cuatro desconocidos armados que obligan a la familia a tomar una decisión imposible para evitar el apocalipsis. Con acceso limitado al mundo exterior, la familia deberá decidir qué creer antes de que todo esté perdido.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/4Zna9CvyzaAgejsErmyXmHC64Dd.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/4Zna9CvyzaAgejsErmyXmHC64Dd.jpg"
+      },
+      "release_date": "2022-11-02",
+      "title": "Llaman a la puerta",
+      "run-time": 100
+    },
+    {
+      "genre": "Thriller",
+      "id": 1076605,
+      "overview": "",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/8QxCd3pSSrj6QqaG4fkNkaJmUa.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/8QxCd3pSSrj6QqaG4fkNkaJmUa.jpg"
+      },
+      "release_date": "2022-11-02",
+      "title": "Cazadora",
+      "run-time": 72
+    },
+    {
+      "genre": "Animation",
+      "id": 676710,
+      "overview": "Maurice, un gato callejero, tiene el timo perfecto para ganar dinero. Encuentra a un niño que toca la flauta y se hace amigo de su horda de ratas que hablan, así no las ve como si fueran comida. Cuando Maurice y los roedores llegan al pueblo de Bad Blintz, encuentran a Malicia. Su timo no llega a buen puerto por culpa de lo que les espera en el sótano.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/nOc3KwOtTtgXraeBddn3gLpCuaA.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/nOc3KwOtTtgXraeBddn3gLpCuaA.jpg"
+      },
+      "release_date": "2022-11-02",
+      "title": "Las aventuras de Maurice",
+      "run-time": 93
+    },
+    {
+      "genre": "War",
+      "id": 840326,
+      "overview": "",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/t9VXZkgcxpIwfPUKAWOOONs0vHv.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/t9VXZkgcxpIwfPUKAWOOONs0vHv.jpg"
+      },
+      "release_date": "2023-01-27",
+      "title": "Sisu",
+      "run-time": 91
+    },
+    {
+      "genre": "Crime",
+      "id": 385687,
+      "overview": "Durante numerosas misiones más que imposibles, Dom Toretto y su familia han sido capaces de ser más listos, de tener más valor y de ir más rápido que cualquier enemigo que se cruzara con ellos. Pero ahora tendrán que enfrentarse al oponente más letal que jamás hayan conocido: un terrible peligro que resurge del pasado, que se mueve por una sangrienta sed de venganza y que está dispuesto a destrozar a la familia y destruir para siempre todo lo que a Dom le importa.",
+      "image": {
+        "image-big": "https://image.tmdb.org/t/p/w500/hc2ymDMfOCZ0JqrsMUBgL1GZXnz.jpg",
+        "image-small": "https://image.tmdb.org/t/p/w300/hc2ymDMfOCZ0JqrsMUBgL1GZXnz.jpg"
+      },
+      "release_date": "2023-05-17",
+      "title": "Fast & Furious X",
+      "run-time": 141
+    }
+  ]
+}
